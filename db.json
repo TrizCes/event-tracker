@@ -1,0 +1,32 @@
+{
+  "eventos": [
+    {
+      "descricao": "Apresentar projeto",
+      "inicio": "2023-07-11T19:00",
+      "fim": "2023-07-11T20:30",
+      "completo": false,
+      "id": 1642342775
+    },
+    {
+      "descricao": "Estudar Node.js",
+      "inicio": "2023-07-13T09:00",
+      "fim": "2023-07-13T19:00",
+      "completo": false,
+      "id": 1642342778
+    },
+    {
+    "descricao": "Estudar React",
+    "inicio": "2023-07-15T09:00",
+    "fim": "2023-07-15T13:00",
+    "completo": false,
+    "id": 1642342747
+  },
+  {
+    "descricao": "Estudar Recoil",
+    "inicio": "2023-07-16T09:00",
+    "fim": "2023-07-16T11:00",
+    "completo": false,
+    "id": 1642342959
+  }
+  ]
+}
